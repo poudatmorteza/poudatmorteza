@@ -1,26 +1,20 @@
 # Hi, I'm Morteza Poudat
 
-Software developer focused on **Python**, **trading systems**, and **full-stack web**.
+**Python & web developer** based in Germany. I build fast websites, data tools and automations for small businesses and engineering companies.
 
-I build tools that connect market data to execution — from TradingView webhooks and MT5 EAs to REST APIs and dashboards.
+🌐 **Portfolio:** [poudatmorteza.github.io/mori-portfolio](https://poudatmorteza.github.io/mori-portfolio/)
 
-## Selected projects
+## What I do
 
-| Project | Description |
-|---------|-------------|
-| [**tv-connector**](https://github.com/poudatmorteza/tv-connector) | TradingView → FastAPI → Redis → MetaTrader 5 bridge with HMAC webhook security |
-| [**mac_triplema**](https://github.com/poudatmorteza/mac_triplema) | Multi-symbol Python bot: Triple EMA + MACD on Capital.com |
-| [**roadtoeldorado**](https://github.com/poudatmorteza/roadtoeldorado) | Copy-trading landing page, ticker API, Docker deploy, Superset analytics |
+- **Data extraction & import** – getting data out of PDFs (including scanned files with OCR and table detection), spreadsheets and websites, cleaning it and loading it into structured databases.
+- **Websites for small businesses** – modern, mobile-friendly, bilingual (DE/EN) sites that load fast and are easy to find.
+- **Custom tools & automation** – Python APIs, internal tools, plugins and automations, from requirements to rollout.
 
 ## Tech
 
-`Python` · `FastAPI` · `TypeScript` · `Next.js` · `Docker` · `MQL5` · `Redis` · `MetaTrader 5`
+`Python` · `FastAPI` · `PyMuPDF` · `OpenCV` · `OCR` · `SQL` · `TypeScript` · `Next.js` · `Tailwind` · `Docker`
 
 ## Contact
 
-- GitHub: [@poudatmorteza](https://github.com/poudatmorteza)
-- Email: moripoudi@gmail.com *(replace or remove if you prefer)*
-
----
-
-*Open to opportunities in backend engineering, fintech, and quantitative tooling.*
+- Portfolio: [poudatmorteza.github.io/mori-portfolio](https://poudatmorteza.github.io/mori-portfolio/)
+- Email: poudat.mtz@gmail.com
